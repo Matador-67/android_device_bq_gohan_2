@@ -170,6 +170,7 @@ persist.mmssupportcp.enable=true
 persist.env.fastdorm.enabled=false
 persist.fd.scroff.timer=1000
 persist.fd.scron.timer=5000
+ro.ril.enable.amr.wideband=1
 
 # Time services
 persist.timed.enable=true
